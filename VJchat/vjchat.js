@@ -30,7 +30,7 @@
             var encodedName = $('<div />').text(sname.userName).html();
             $('#users').append('<div class="chatbox__user--active"><p>' + encodedName + '</p></div>');
         }
-    }
+    };
 
     // Get the user name and store it to prepend to messages.
     $('#displayname').val(prompt('Enter your name:', ''));
