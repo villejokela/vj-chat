@@ -1,6 +1,6 @@
 # vj-chat
 
-A chat .NET app that uses SignalR, Azure table storage and Simply injector.
+A chat .NET app that uses SignalR, Azure table storage and Simple injector.
 
 To deploy go to your local git repo and run (xxx is your azure conf)
 
